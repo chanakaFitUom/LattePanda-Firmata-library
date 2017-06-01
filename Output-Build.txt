@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: ArduinoSketchConfiguration, Configuration: Debug Win32 ------
+1>  Make: Nothing to be done for `all'.
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
